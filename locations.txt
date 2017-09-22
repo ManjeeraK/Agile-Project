@@ -1,2 +1,8 @@
  "Earth's Moon space"
+<<<<<<< HEAD
 Mars1
+=======
+Mars
+
+jupiter
+>>>>>>> 22cac4e438f2cccd7a4a93092376f68447daf006
